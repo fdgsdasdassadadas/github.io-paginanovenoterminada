@@ -1,0 +1,75 @@
+
+#principal-title {
+	
+}
+
+.videogame-names {
+	font-style: italic;
+}
+
+
+.videogame_paragraph {
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+.disponibility {
+	font-family: monospace;
+}
+
+#table {
+	color: white;
+}
+
+.table-title {
+	font-family: sans-serif;
+	font-size: 35px;
+	color: #B22222;
+}
+
+.table-head{
+	font-size: 20px;
+	color: #8B0000;
+}
+
+#table--head{
+	background-color: #000000;
+}
+
+#prueba {
+	background-color: black;
+}
+
+.t-head {
+	background-color: #000000;
+}
+
+#t-headd th{
+	font-size: 30px;
+}
+
+#table tr {
+	margin: 16px;
+	padding: 6;
+}
+
+.videogame {
+	font-style: italic;
+	font-size: 20px;
+	color: #CCFFFF;
+
+}
+
+.videogame-name {
+	font-style: italic;
+	color: #CCFFFF;
+}
+
+#u3 a {
+	color: #DDC01E;
+	text-decoration: none;
+} 
+
+#u3 a:hover {
+	color: black;
+}
